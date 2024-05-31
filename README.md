@@ -1,0 +1,2 @@
+# wsb_mobile_app
+Programowanie aplikacji mobilnych_Bartosz Bryniarski_INF_NW_m_Lato2024
